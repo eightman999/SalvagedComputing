@@ -95,6 +95,7 @@ SalvagedComputing may feed candidate configurations into YLSB, but YLSB scoring 
 
 - `docs/ARCHITECTURE.md` — heterogeneous-node architecture and role assignment
 - `docs/HARDWARE_REGISTRY.md` — hardware candidates and classification scheme
+- `docs/reference/` — GPU datasheet / compute-capability / CUDA-ceiling references ([index](docs/reference/INDEX.md))
 - `docs/RESEARCH_NOTES_2026-09-09.md` — model/hardware co-design notes distilled from today's reading
 - `docs/2026-09-09.md` — project inception / today's decisions
 - `ROADMAP.md` — next experiments and build steps
